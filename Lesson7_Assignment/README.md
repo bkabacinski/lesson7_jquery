@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 31, 2017
 
 ### Student Name:  
-(First and Last Name)
+Bridget Kabacinski
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project involves making a web application for a recipe interactive by using jQuery methods to make elements respond to user requests.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bkabacinski.github.io/lesson7_jquery/lesson7_assignment/index.html
+https://bkabacinski.github.io/lesson7_jquery/lesson7_assignment/index2.html
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Although jQuery uses shortcuts that may seem like a different language, it follows JavaScript rules.
+2. jQuery methods can be used to traverse and manipulate the DOM and add animation effects.
+3. In order for jQuery methods to be implemented the .js file must be linked to the html document in the <body> tag.
