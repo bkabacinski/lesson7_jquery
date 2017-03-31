@@ -13,8 +13,8 @@ Bridget Kabacinski
 This project involves making a web application for a recipe interactive by using jQuery methods to make elements respond to user requests.
 
 ### View Project:
-https://bkabacinski.github.io/lesson7_jquery/lesson7_assignment/index.html
-https://bkabacinski.github.io/lesson7_jquery/lesson7_assignment/index2.html
+https://bkabacinski.github.io/lesson7_jquery/Lesson7_Assignment/index.html
+https://bkabacinski.github.io/lesson7_jquery/Lesson7_Assignment/index2.html
 
 ### Lessons Learned in the Assignment:
 1. Although jQuery uses shortcuts that may seem like a different language, it follows JavaScript rules.
